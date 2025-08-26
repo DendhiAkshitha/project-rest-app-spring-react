@@ -1,0 +1,24 @@
+#Ignore Eclipse worksapce files
+.metadata/
+*.classpath
+*.project
+*.settings/
+
+#Ignore IntelliJ / VSCode
+.idea/
+.vscode/
+
+#Ignore build directories
+target/
+build/
+dist/
+
+#Ignore Node modules
+node_modules/
+
+#Ignore logs
+*.log
+
+#OS-specific
+.DS_Store
+Thumbs.db
